@@ -25,7 +25,7 @@ rand2darri - Creates a 2d array and filles it with random elements
 
 sort2d - Sorts a 2d array using bubble sort
 
-### Other datastructures
+### Other Data Structures
 
 randarrilist - Creates an ArrayList and fills it with random elements
 
