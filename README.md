@@ -33,19 +33,19 @@ randlist -Creates a list and fills it with random elements
 
 ### Basic functions ( with recursion )
 
-fak - Factorial using recursion
+fak - Factorial using recursion [int n]
 
-prime - Finds if element is prime using recursion
+prime - Finds if element is prime using recursion [int n, 2]
 
-rec - Creates a basic recursion
+rec - Creates a basic recursion [int n]
 
 ### Combinatorics
 
-perm - Permutations from n using recursion
+perm - Permutations from n using recursion [int[] arr(n), 0]
 
-var - Variations n from k using recursion
+var - Variations n from k using recursion [int[] arr(k), 0, 1, n]
 
-combo - Combinations n from k using recursion
+combo - Combinations n from k using recursion [int[] arr(k), 0, 1, n]
 
 ### Dialog box
 box - Creates dialog box
