@@ -3,8 +3,7 @@
 1. Download the newest release
 2. Import it into netbeans from Tools > Options > Import
 
-# Netbeans-shortcuts
-shortcuts for netbeans
+# Shortcuts
 
 ### Useful shortcuts
 
