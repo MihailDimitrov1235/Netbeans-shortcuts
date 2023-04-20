@@ -31,6 +31,8 @@ sort2d - Sorts a 2d array using bubble sort
 
 ### Other Data Structures
 
+hset - Creates a hashset and fills it with data
+
 randarrilist - Creates an ArrayList and fills it with random elements
 
 randlist -Creates a list and fills it with random elements
