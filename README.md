@@ -31,6 +31,10 @@ sort2d - Sorts a 2d array using bubble sort
 
 ### Other Data Structures
 
+hmap - creates a hashmap
+
+hmapout - prints the created hashmap
+
 randstack - creates a random stack
 
 randq - creates a random queue
