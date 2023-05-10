@@ -17,6 +17,8 @@ arri - Creates a basic array
 
 randarri - Creates a basic array and fills it with random elements
 
+sort1d - Sorts a 1d array
+
 ### Array - 2d
 
 2darri - Creates a 2d array
@@ -27,7 +29,7 @@ rand2darri - Creates a 2d array and filles it with random elements
 
 2dout - Logs each element of 2d array
 
-sort2d - Sorts a 2d array using bubble sort
+sort2d - Sorts a 2d array
 
 ### Other Data Structures
 
@@ -48,6 +50,8 @@ randarrilist - Creates an ArrayList and fills it with random elements
 randlist -Creates a list and fills it with random elements
 
 ### Basic functions ( with recursion )
+
+bsort - Bubble sort function
 
 fak - Factorial using recursion [int n]
 
