@@ -19,6 +19,8 @@ randarri - Creates a basic array and fills it with random elements
 
 sort1d - Sorts a 1d array
 
+1dout - Prints a 1d array
+
 ### Array - 2d
 
 2darri - Creates a 2d array
