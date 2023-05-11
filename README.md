@@ -11,6 +11,8 @@ psvms - public static void main with scanner
 
 rand - imports random
 
+scan - creates a scanner
+
 ### Array - 1d
 
 arri - Creates a basic array
@@ -33,6 +35,12 @@ rand2darri - Creates a 2d array and filles it with random elements
 
 sort2d - Sorts a 2d array
 
+### Sorting 
+
+bsort - Bubble sort function
+
+ssort - Selection sort function
+
 ### Other Data Structures
 
 hmap - creates a hashmap
@@ -52,8 +60,6 @@ randarrilist - Creates an ArrayList and fills it with random elements
 randlist -Creates a list and fills it with random elements
 
 ### Basic functions ( with recursion )
-
-bsort - Bubble sort function
 
 fak - Factorial using recursion [int n]
 
