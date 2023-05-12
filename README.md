@@ -37,6 +37,10 @@ sort2d - Sorts a 2d array
 
 ### Sorting 
 
+isort - insertion sort function
+
+shsort - shell sort function
+
 bsort - Bubble sort function
 
 ssort - Selection sort function
@@ -66,6 +70,10 @@ fak - Factorial using recursion [int n]
 prime - Finds if element is prime using recursion [int n, 2]
 
 rec - Creates a basic recursion [int n]
+
+### Other functions
+
+area - largest number of numbers next to each other in an array
 
 ### Combinatorics
 
