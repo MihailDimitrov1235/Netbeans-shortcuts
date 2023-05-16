@@ -59,6 +59,10 @@ randq - creates a random queue
 
 tree - creates a treeSet, fills it and prints it
 
+graph - creates a graph class with a dfs
+
+igraph - implements a graph
+
 hset - Creates a hashset and fills it with data
 
 randarrilist - Creates an ArrayList and fills it with random elements
