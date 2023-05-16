@@ -37,6 +37,8 @@ sort2d - Sorts a 2d array
 
 ### Sorting 
 
+msort - merge sort function
+
 isort - insertion sort function
 
 shsort - shell sort function
