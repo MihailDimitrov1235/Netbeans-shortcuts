@@ -49,6 +49,14 @@ bsort - Bubble sort function
 
 ssort - Selection sort function
 
+### Graph
+
+graph - creates a graph class with a dfs
+
+igraph - implements a graph
+
+randgraph - implements a graph and fills it with n nodes and m edges
+
 ### Other Data Structures
 
 hmap - creates a hashmap
@@ -60,10 +68,6 @@ randstack - creates a random stack
 randq - creates a random queue
 
 tree - creates a treeSet, fills it and prints it
-
-graph - creates a graph class with a dfs
-
-igraph - implements a graph
 
 hset - Creates a hashset and fills it with data
 
