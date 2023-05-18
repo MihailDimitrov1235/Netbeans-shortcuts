@@ -37,6 +37,8 @@ sort2d - Sorts a 2d array
 
 ### Sorting 
 
+countsort - counting sort function
+
 msort - merge sort function
 
 isort - insertion sort function
