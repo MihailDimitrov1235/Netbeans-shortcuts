@@ -55,7 +55,7 @@ graph - creates a graph class with a dfs
 
 igraph - implements a graph
 
-randgraph - implements a graph and fills it with n nodes and m edges
+psvmg - creates a graph with everithing ( includes main method )
 
 ### Other Data Structures
 
